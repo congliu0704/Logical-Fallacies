@@ -1,2 +1,2 @@
-# Logical-Fallacies
+# Logical Fallacies
 Notes on logical fallacies

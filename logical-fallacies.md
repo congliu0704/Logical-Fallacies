@@ -11,7 +11,7 @@
 * [Bandwagon](#bandwagon)
 * [Begging The Question](#begging-the-question)
 * [Burden Of Proof](#burden-of-proof)
-* [Composition/Division](#composition-division)
+* [Composition or Division](#composition-or-division)
 * [False Cause](#false-cause)
 * [Genetic](#genetic)
 * [Loaded Question](#loaded-question)
@@ -20,13 +20,17 @@
 * [Personal Incredulity](#personal-incredulity)
 * [Slippery Slope](#slippery-slope)
 * [Special Pleading](#special-pleading)
-* [Strawman](#strawman)
+* [Straw Man](#straw-man)
 * [The Fallacy Fallacy](#the-fallacy-fallacy)
 * [The Texas Sharpshooter](#the-texas-sharpshooter)
 * [Tu Quoque](#tu-quoque)
 
-## [Strawman](https://yourlogicalfallacyis.com/strawman)
-Misrepresenting or exaggerating someones argument to make it easier to attack.
+## [Straw Man](https://yourlogicalfallacyis.com/straw-man)
+### Definition
+An intentionally misrepresented proposition that is set up because it is easier to defeat than an opponent's real argument.
+
+### Example
+After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.
 
 ## [False Cause](https://yourlogicalfallacyis.com/false-cause)
 Presuming that a real or perceived relationship between things means that one is the cause of the other.
@@ -55,7 +59,7 @@ Using the opinion or position of an authority figure, or institution of authorit
 ## [Appeal To Nature](https://yourlogicalfallacyis.com/appeal-to-nature)
 Making the argument that because something is “natural” it is therefore valid, justified, inevitable, or ideal.
 
-## [Composition/Division](https://yourlogicalfallacyis.com/composition-division)
+## [Composition or Division](https://yourlogicalfallacyis.com/composition-division)
 Assuming that what’s true about one part of something has to be applied to all, or other, parts of it.
 
 ## [Anecdotal](https://yourlogicalfallacyis.com/anecdotal)

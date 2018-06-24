@@ -5,12 +5,12 @@
 * [Ad Hominem](#ad-hominem)
 * [Ambiguity](#ambiguity)
 * [Anecdotal](#anecdotal)
-* [Appeal To Authority](#appeal-to-authority)
-* [Appeal To Emotion](#appeal-to-emotion)
-* [Appeal To Nature](#appeal-to-nature)
+* [Appeal to Authority](#appeal-to-authority)
+* [Appeal to Emotion](#appeal-to-emotion)
+* [Appeal to Nature](#appeal-to-nature)
 * [Bandwagon](#bandwagon)
-* [Begging The Question](#begging-the-question)
-* [Burden Of Proof](#burden-of-proof)
+* [Begging the Question](#begging-the-question)
+* [Burden of Proof](#burden-of-proof)
 * [Composition or Division](#composition-or-division)
 * [False Cause](#false-cause)
 * [Genetic](#genetic)
@@ -43,19 +43,19 @@ Using double meanings or ambiguities of language to mislead or misrepresent the 
 
 Using personal experience or an isolated example instead of a valid argument, especially to dismiss statistics.
 
-## [Appeal To Authority](https://yourlogicalfallacyis.com/appeal-to-authority)
+## [Appeal to Authority](https://yourlogicalfallacyis.com/appeal-to-authority)
 
 ### Definition
 
 Using the opinion or position of an authority figure, or institution of authority, in place of an actual argument.
 
-## [Appeal To Emotion](https://yourlogicalfallacyis.com/appeal-to-emotion)
+## [Appeal to Emotion](https://yourlogicalfallacyis.com/appeal-to-emotion)
 
 ### Definition
 
 Manipulating an emotional response in place of a valid or compelling argument.
 
-## [Appeal To Nature](https://yourlogicalfallacyis.com/appeal-to-nature)
+## [Appeal to Nature](https://yourlogicalfallacyis.com/appeal-to-nature)
 
 ### Definition
 
@@ -67,13 +67,13 @@ Making the argument that because something is “natural” it is therefore vali
 
 Appealing to popularity or the fact that many people do something as an attempted form of validation.
 
-## [Begging The Question](https://yourlogicalfallacyis.com/begging-the-question)
+## [Begging the Question](https://yourlogicalfallacyis.com/begging-the-question)
 
 ### Definition
 
 A circular argument in which the conclusion is included in the premise.
 
-## [Burden Of Proof](https://yourlogicalfallacyis.com/burden-of-proof)
+## [Burden of Proof](https://yourlogicalfallacyis.com/burden-of-proof)
 
 ### Definition
 
@@ -139,9 +139,11 @@ Moving the goalposts or making up exceptions when claim is shown to be false.
 
 An intentionally misrepresented proposition that is set up because it is easier to defeat than an opponent's real argument.
 
-### Example
+### Examples
 
 After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.
+
+You say Israel should stop building settlements on the West Bank in violation of treaty. So you're saying Israel doesn't have the right to be a nation?
 
 ## [The Fallacy Fallacy](https://yourlogicalfallacyis.com/the-fallacy-fallacy)
 

@@ -25,11 +25,14 @@
 * [The Texas Sharpshooter](#the-texas-sharpshooter)
 * [Tu Quoque](#tu-quoque)
 
-## [Straw Man](https://yourlogicalfallacyis.com/straw-man)
+## [Straw Man](https://yourlogicalfallacyis.com/strawman)
+
 ### Definition
+
 An intentionally misrepresented proposition that is set up because it is easier to defeat than an opponent's real argument.
 
 ### Example
+
 After Will said that we should put more money into health and education, Warren responded by saying that he was surprised that Will hates our country so much that he wants to leave it defenceless by cutting military spending.
 
 ## [False Cause](https://yourlogicalfallacyis.com/false-cause)
